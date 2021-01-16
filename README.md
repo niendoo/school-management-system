@@ -1,2 +1,2 @@
-# school-management-system
-A complete modern school management system for managing any school
+# an-online-learning-platform
+Xtra tuition is an online learning platform designed, developed and maintained by Kumar Lakshmanan and Abdul Rahaman Abdul Rauf.
